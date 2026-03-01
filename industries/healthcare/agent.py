@@ -41,7 +41,6 @@ class HealthcareAgent:
 
 if __name__ == "__main__":
     # Example Usage
-    import getpass
-    key = os.getenv("GEMINI_API_KEY") or getpass.getpass("Enter Gemini API Key: ")
+    key = os.getenv("GEMINI_API_KEY") 
     agent = HealthcareAgent(key)
     print(agent.run("What are the latest advancements in personalized cancer treatment?"))
