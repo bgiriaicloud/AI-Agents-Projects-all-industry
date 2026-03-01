@@ -46,6 +46,17 @@ Our goal is to bridge the gap between "Cool AI Demos" and **"Institutional-Grade
 
 ---
 
+## 🌟 Flagship Project: Universal ADK Agent
+
+Located in `/universal_adk_agent`, this is the **"One-for-All"** core. Developed using the **Agentic Development Kit (ADK)** principles and powered by **Gemini 2.0 Pro**, it serves as a central hub that can dynamically shift its intelligence across all 10 industries.
+
+### 🚀 Key Features:
+- **Dynamic Persona Switching**: Instantly reconfigure nodes for Healthcare, Finance, Legal, etc.
+- **Stateful ADK Protocol**: Uses advanced session history and system instructions for persistent intelligence.
+- **Ultra-Performance**: Optimized for the `gemini-2.0-pro` experimental model for complex reasoning.
+
+---
+
 ## 🛠️ Recommended Tech Stack
 
 | Component | Standard Choice | Advanced Choice |
