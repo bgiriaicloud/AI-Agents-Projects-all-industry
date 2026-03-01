@@ -46,14 +46,23 @@ Our goal is to bridge the gap between "Cool AI Demos" and **"Institutional-Grade
 
 ---
 
-## 🌟 Flagship Project: Universal ADK Agent
+---
 
-Located in `/universal_adk_agent`, this is the **"One-for-All"** core. Developed using the **Agentic Development Kit (ADK)** principles and powered by **Gemini 2.0 Pro**, it serves as a central hub that can dynamically shift its intelligence across all 10 industries.
+## 👑 Flagship: OmniAgent-ADK (The "One")
 
-### 🚀 Key Features:
-- **Dynamic Persona Switching**: Instantly reconfigure nodes for Healthcare, Finance, Legal, etc.
-- **Stateful ADK Protocol**: Uses advanced session history and system instructions for persistent intelligence.
-- **Ultra-Performance**: Optimized for the `gemini-2.0-pro` experimental model for complex reasoning.
+Located in `/omni_agent`, this is the definitive **One Agent for All Industries**. Built natively on the **Agentic Development Kit (ADK)** framework and Google's **Gemini 2.0 Pro**, it replaces the need for separate silos with a unified intelligence hub.
+
+### 🚀 Omni-Capabilities:
+- **Autonomous Tool-Calling**: Instantly triggers yFinance for Finance, OpenSearch for Healthcare, and IoT simulations for Manufacturing.
+- **Cross-Industry Context**: A single system instruction that handles 500+ use cases through dynamic reasoning.
+- **Institutional Grade**: Follows ADK standards for scalability, reliability, and security.
+
+### 🛠️ Quick Start
+```bash
+cd omni_agent
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ---
 

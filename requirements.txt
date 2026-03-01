@@ -7,5 +7,4 @@ yfinance
 duckduckgo-search
 langchain
 langgraph
-# Assuming google-adk is part of the environment or available via pip
-# google-adk
+google-adk
